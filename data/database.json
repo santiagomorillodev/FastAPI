@@ -1,0 +1,28 @@
+{
+      "users": [
+            {
+                  "id": 1,
+                  "name": "santiago",
+                  "email": "sanvzl@hotmail.com",
+                  "birthdate": "2003-08-07",
+                  "disabled": "True",
+                  "password": "$2a$12$1No5.gpfv90XMfQr6rWll.EfpcaVPbCaK3i2hKaU3LCpuJad34PJG"
+            },
+            {
+                  "id": 2,
+                  "name": "manuelito",
+                  "email": "manvzl@hotmail.com",
+                  "birthdate": "2002-06-01",
+                  "disabled": "True",
+                  "password": "$2a$12$MX3APYxATA8XIn3y1bj2jO8SXeiWU8MyucSjrnrFKu1rZx5p9gQVO"
+            },
+            {
+                  "id": 3,
+                  "name": "daniel",
+                  "email": "danvzl@hotmail.com",
+                  "birthdate": "2004-02-23",
+                  "disabled": "False",
+                  "password": "$2a$12$xeNhbWEwIHTi0CNfCO5BzuZL2xwTizpFpq/EDx.vZVURRCGAEMWgq"
+            }
+      ]
+}

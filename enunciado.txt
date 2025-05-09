@@ -1,0 +1,13 @@
+Desarrollar una REST API con FastAPI que permita:
+
+• Obtener todos los usuarios 
+• ⁠Obtener un usuario por id
+• ⁠Crear un usuario 
+• ⁠Actualizar usuario 
+• ⁠Borrar usuario
+
+Cada usuario tendrá: Nombre, Correo y Fecha de Nacimiento
+
+Nota: no pueden haber usuarios con el mismo correo, el sistema no debe permitirlo 
+
+Como base de datos se utilizará un archivo JSON
